@@ -20,7 +20,7 @@ const verbs = ['brush its teeth', 'sing', 'drive a car', 'paint', 'write a novel
 const descriptors = ['blue eyes', 'a terrible haircut', 'seven toes', 'an incapacitated tortoise']
 const adjectives = ['scared', 'terrified of bees', 'very bright pink', 'trapped in the wrong dimension']
 const phrases = ['dead', 'Bob', 'Mildred the magnificent', 'lost', 'James']
-const objects = ['an anglepoise lamp', 'great difficulty', 'hannibals elephants', 'a clinical midget', 'the worlds largest lollipop']
+const objects = ['an anglepoise lamp', 'great difficulty', 'hannibals elephants', 'the Roman army in tortoise formation', 'the worlds largest lollipop']
 
 scramble()
 let qs = ['How does ' + noun + ' ' + verb + ' ?', 'Why does ' + noun + ' ' + verb + ' ?', 'What do you call ' + noun + ' with ' + descriptor + ' ?', 'Why is ' + noun + ' ' + adjective + ' ?'] 
