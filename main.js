@@ -23,7 +23,7 @@ const phrases = ['dead', 'Bob', 'Mildred the magnificent', 'lost', 'James']
 const objects = ['an anglepoise lamp', 'great difficulty', 'hannibals elephants', 'a clinical midget', 'the worlds largest lollipop']
 
 scramble()
-let qs = ['How does a ' + noun + ' ' + verb + ' ?', 'Why does ' + noun + ' ' + verb + ' ?', 'What do you call ' + noun + ' with ' + descriptor + ' ?', 'Why is ' + noun + ' ' + adjective + ' ?'] 
+let qs = ['How does ' + noun + ' ' + verb + ' ?', 'Why does ' + noun + ' ' + verb + ' ?', 'What do you call ' + noun + ' with ' + descriptor + ' ?', 'Why is ' + noun + ' ' + adjective + ' ?'] 
 
 scramble()
 answers = ['With ' + object, 'It has ' + object, phrase, 'It is ' + adjective]
